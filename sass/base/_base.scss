@@ -9,6 +9,9 @@
 
 html {
   // This defines what 1rem is
+  // By setting it to 62.5%, 1rem will be equal to 10px
+  // 10px is 62.5% of the default font size
+  // In most browsers it is 16px
   font-size: 62.5%;
 }
 
